@@ -1,0 +1,133 @@
+.one{
+
+    height: 220px;
+    width: 300px;
+    display:  inline-block;
+    background-position: center;
+background-image: url(https://i.pinimg.com/originals/9f/a9/d6/9fa9d6a9211c07cd44526a882f0aecff.jpg);
+background-size:cover;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+margin-block: 100px;
+
+}
+.two{
+
+height: 220px;
+width: 300px;
+
+display: inline-block ;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+background-position: center;
+background-image: url(https://w0.peakpx.com/wallpaper/35/104/HD-wallpaper-manchester-united-fgh-gfv.jpg);
+background-size: cover;
+
+}
+.three{
+width: 300px;
+height: 220px;
+background-image: url(https://m.media-amazon.com/images/I/41mG0RBLZLL.jpg);
+background-size: cover;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+display: inline-block;
+
+
+
+}
+
+
+.one div{
+
+    height: 180px;
+    width: 300px;
+    background-color:rgba(1, 0, 0, 1);
+    margin-top: 220px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-radius:40px 40px 40 40 ;
+    text-align: center;
+    line-height: .5;
+    
+        
+
+    
+    
+}
+.two div{
+
+    height: 180px;
+    width: 300px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+    background-color:rgba(1, 0, 0, 1);
+    margin-top: 220px;
+    border-radius:40px 40px 40 40 ;
+    text-align: center;
+    line-height: .5;
+    
+
+
+
+}
+.three div{
+
+    height: 180px;
+    width: 300px;
+    
+    background-color:rgba(1, 0, 0, 1);
+    margin-top: 220px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-radius: 40px 40px 40 40 ;
+    text-align: center;
+    line-height: .5;
+
+}
+button {
+background-color:gray;
+border-radius: 10px;
+padding: 10px 20px;
+border: none;
+
+
+
+
+}
+
+p{
+    
+
+    color: wheat;
+}
+
+
+
+
+
+/*
+width: 30;
+height: 40;
+background-color: red;
+
+
+
+}
+.two{
+
+width: 30;
+height: 40;
+background-color: antiquewhite;
+
+}
+.three{
+    width: 40;
+    height: 50;
+    background-color: beige;
+}
+div{
+display: inline-block;
+
+}/*
